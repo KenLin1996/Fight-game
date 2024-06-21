@@ -25,6 +25,7 @@
 [進入遊戲](https://kenlin1996.github.io/Fight-game/)
 
 ## 遊戲畫面
+
 起始畫面：
 ![遊戲截圖](./img/screenshot/screenshot1.png)
 
